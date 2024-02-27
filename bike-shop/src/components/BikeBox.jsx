@@ -28,8 +28,8 @@ function BikeBox({ data, bikeID }) {
               </div>
 
               <div className="pick-description__table__col">
-                <span>Mark</span>
-                <span>{bike.mark}</span>
+                <span>Make</span>
+                <span>{bike.make}</span>
               </div>
 
               <div className="pick-description__table__col">
